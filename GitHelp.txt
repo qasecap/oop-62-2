@@ -10,3 +10,4 @@ git remote add origin https://github.com/qasecap/oop-62-2.git
 git status | состояние проекта
 git add .  | скопировать все в буфер обмена
 git commit -m "lesson1" | ссылка на сохранение
+git push origin master
