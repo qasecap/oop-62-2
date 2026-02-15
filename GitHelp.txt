@@ -15,7 +15,7 @@ git branch
 git commit -m "update githelp.txt"
 
 git branch branch_name | создание ветки
-git switch branch_name | задание имени ветки
+git switch branch_name | переключение на ветку
 git checkout branch_name | переключение на ветку
 
 git switch -c branch_name
