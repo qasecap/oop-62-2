@@ -12,3 +12,4 @@ git add .  | скопировать все в буфер обмена
 git commit -m "lesson1" | ссылка на сохранение
 git push origin master
 git branch
+git commit -m "update githelp.txt"
