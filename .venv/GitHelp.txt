@@ -1,0 +1,12 @@
+Комманды для регистрации данных
+git config --global user.name "qasecap"
+git config --global user.mail "qasecap@gmail.com"
+
+Команды только для одного проекта
+git init
+git remote add origin https://github.com/qasecap/oop-62-2.git
+
+Основные команды для работы с Git
+git status | состояние проекта
+git add .  | скопировать все в буфер обмена
+git commit -m "lesson1"
