@@ -13,3 +13,10 @@ git commit -m "lesson1" | ссылка на сохранение
 git push origin master
 git branch
 git commit -m "update githelp.txt"
+
+git branch branch_name | создание ветки
+git switch branch_name | задание имени ветки
+git checkout branch_name | переключение на ветку
+
+git switch -c branch_name
+git checkout -b branch_name
