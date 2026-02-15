@@ -1,6 +1,6 @@
 Комманды для регистрации данных
 git config --global user.name "qasecap"
-git config --global user.mail "qasecap@gmail.com"
+git config --global user.email "qasecap@gmail.com"
 
 Команды только для одного проекта
 git init
